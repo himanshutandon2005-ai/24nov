@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rootsv2nov.vercel.app/sitemap.xml
